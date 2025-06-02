@@ -110,7 +110,7 @@ public class Animation extends MyFrame{
 				sleep(0.1);
 			}
 		}*/
-		
+		//5_EX3
 		int x=40;
 		int y=40;
 		int i=0;
